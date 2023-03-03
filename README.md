@@ -11,7 +11,6 @@ The three images below have been converted to HTML files and formatted using CSS
 
 > ### `ScreenShots:`
 
-+ ![alt text](image/home.png)
-+ ![alt text](image/product.png)
-+ ![alt text](image/company.png)
-+ ![alt text](image/more.png)
++ ![alt text](Image/Image1.png)
++ ![alt text](Image/Image2.png)
++ ![alt text](Image/Image3.png)
