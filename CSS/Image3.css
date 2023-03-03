@@ -1,6 +1,7 @@
 body{
     font-size: x-large;
-    margin-left: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 .redFont{
     color: red;
