@@ -1,0 +1,30 @@
+body{
+    font-size: x-large;
+    margin-left: 100px;
+}
+.redFont{
+    color: red;
+}
+.blueFont{
+    color: blue;
+}
+.orangeFont{
+    color: #ffaf20;
+}
+.boldFont{
+    font-weight: bolder;
+}
+.yallowBack{
+    background-color: yellow;
+}
+ul{
+    margin-block-start: -10px;
+    line-height: 50px;
+    margin-left: 20px;
+}
+.ulstyle{
+    line-height: 25px;
+}
+.ulwithoutSymbol{
+    list-style-type: none;
+}

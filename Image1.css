@@ -1,0 +1,17 @@
+tr , td{ 
+    border:2px solid;
+    border-radius: 6px;
+}
+td{
+    box-shadow: 5px 5px 5px #848383; 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+table{
+    margin-left: 10px;
+    border-spacing: 10px 10px;
+    
+}
