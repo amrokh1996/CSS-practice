@@ -1,15 +1,33 @@
 .mainDiv div{
     display: inline-block;
-}
-.mainDiv div:nth-child(odd){
-height: 50px;
-width: 50px;
-background-color: #ffff00;
-margin: 3px;
-}
-.mainDiv div:nth-child(even){
+    border: 2px black solid;
     height: 50px;
     width: 50px;
-    background-color: #008001;
     margin: 3px;
+}
+.mainDiv div:nth-child(odd){
+
+background-color: #ffff00;
+
+}
+.mainDiv div:nth-child(even){
+    background-color: #008001;
+    position: relative;
+    top:25px;
     }
+
+.mainDiv2 div{
+        display: inline-block;
+        height: 30px;
+        width: 80px;
+        background-color: #fa0100;
+        color: white;
+        margin-left: 2px;
+        margin-right: 2px;
+        text-align: center;
+        font-size: large;
+        border: 2px black solid;
+}
+.mainDiv2 div:nth-child(even){
+    display: none;
+    }    
