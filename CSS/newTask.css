@@ -1,0 +1,15 @@
+.mainDiv div{
+    display: inline-block;
+}
+.mainDiv div:nth-child(odd){
+height: 50px;
+width: 50px;
+background-color: #ffff00;
+margin: 3px;
+}
+.mainDiv div:nth-child(even){
+    height: 50px;
+    width: 50px;
+    background-color: #008001;
+    margin: 3px;
+    }
